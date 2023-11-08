@@ -1,7 +1,5 @@
 provider "aws" {
   region     = "us-east-2"
-  access_key = "AKIARBT534H7KCNFOHW5"
-  secret_key = "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"
 #   alias      = "Ohio"
 }
 
